@@ -1,4 +1,4 @@
-### <h1><strong>Hello, i'm Ramon Pinheiro👋</strong></h1>
+### <h1 align="center"><strong>Hello, i'm Ramon Pinheiro👋</strong></h1>
 <br>
 <div align="center">
   <a href="https://github.com/hiroowsz">
