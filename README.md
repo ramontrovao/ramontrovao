@@ -2,7 +2,7 @@
 <br>
 
   <h3>
-    Studying front-end development since 23/02/2022, 15yr old, interesed on backend and fullstack development too :) 
+    Studying front-end development since 23/02/2022, 15yr old, interesed on backend development too :) 
   </h3> 
 
 <div align="center">
