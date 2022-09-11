@@ -11,7 +11,7 @@
 </div>
 
 <div display="flex"> 
-  <img src="https://static.wikia.nocookie.net/gensin-impact/images/7/74/Icon_Emoji_066_Hu_Tao_Reciting_poetry.png/revision/latest?cb=20210906044059" align="right">
+  <img src="https://static.wikia.nocookie.net/gensin-impact/images/7/74/Icon_Emoji_066_Hu_Tao_Reciting_poetry.png/revision/latest?cb=20210906044059" align="right" alt="hutao">
 </div>
 
 <div style="display: inline_block"><br>
