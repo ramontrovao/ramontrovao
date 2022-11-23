@@ -1,4 +1,4 @@
-## <Ramon Pinheiro, Front-end Developer, 15y />
+<div align="center"> <h1>Ramon Pinheiro, Front-end Developer, 15y</h1> </div>
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiroowsz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -13,7 +13,7 @@
 
 
 
-  <img align="right" alt="Ramon-pic" height="200" width="200" src="https://cdn.discordapp.com/attachments/940731393380581448/1043920418798567514/ramon_omori.png">
+  <img align="right" alt="Ramon-pic" height="150" width="150" src="https://cdn.discordapp.com/attachments/940731393380581448/1043920418798567514/ramon_omori.png">
 </div>
   
   ##
