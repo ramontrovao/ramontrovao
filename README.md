@@ -16,11 +16,6 @@
 - 🌐 &nbsp; HTML | CSS | SCSS | Bootstrap 
 - 🔧 &nbsp; Visual Studio Code | Git
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiroowsz&theme=transparent&title_color=de5ba7&text_color=de5ba7" width="350">
-
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
@@ -28,3 +23,14 @@
 &nbsp; <a href="https://www.instagram.com/ramonpxz/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="mailto:ramontrov@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+
+<hr>
+
+<br>
+
+<div style="display: flex">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiroowsz&theme=transparent&title_color=de5ba7&text_color=de5ba7" width="350">
+   <img src="https://github-readme-stats.vercel.app/api?username=hiroowsz&show_icons=true&theme=transparent&title_color=de5ba7&text_color=de5ba7&icon_color=000000" width="490" style="margin: 50px;">
+</div>
+
+[![wakatime](https://wakatime.com/badge/user/f6436c03-17bb-4f7c-8ce9-9a8d59dc4c06.svg)](https://wakatime.com/@f6436c03-17bb-4f7c-8ce9-9a8d59dc4c06)
