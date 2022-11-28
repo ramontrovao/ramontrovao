@@ -18,11 +18,7 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiroowsz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=DE5BA7&icon_color=DE5BA7&text_color=DE5BA7&bg_color=FFFFFF" alt="Ramon Pinheiro stats">
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiroowsz&layout=compact&text_color=DE5BA7&bg_color=FFFFFF)](https://github.com/hiroowsz/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiroowsz&theme=transparent&title_color=de5ba7&text_color=de5ba7" width="350">
 
 
 <h3> 🤝🏻 Connect with Me </h3>
