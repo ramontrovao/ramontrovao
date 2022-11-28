@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Ramon Pinheiro. <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" width="35"> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/25/75/a0/2575a08f0ad0b5fbfa39db3eec0ff84b.gif" width="400"/>
+<img align="right" alt="GIF" src="https://media.tenor.com/6ZI73-HbAy4AAAAi/loop-cow.gif" width="350"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
