@@ -3,10 +3,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Front-end Development! :)
-- 🤔 &nbsp; Exploring new technologies like React, Tailwind and NextJS.
+- 🔭 &nbsp; I’m currently OOP JavaScript! :)
+- 🤔 &nbsp; Explore new technologies like React, Tailwind and NextJS.
 - 🎓 &nbsp; Studying at OneBitCode and Rocketseat.
-- 💼 &nbsp; Full stack developer.
+- 💼 &nbsp; Front-end developer.
 - 🌱 &nbsp; Never stop learning!
 - ✍️ &nbsp; I play osu, valorant, genshin impact, love music and code. 
 
