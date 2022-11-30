@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Studying at OneBitCode and Rocketseat.
 - 💼 &nbsp; Front-end developer.
 - 🌱 &nbsp; Never stop learning!
-- ✍️ &nbsp; I play osu, valorant, genshin impact, love music and code. 
+- ✍️ &nbsp; I play osu, valorant, genshin impact, i love music and code. 
 
 <h3>🛠 Tech Stack</h3>
 
