@@ -1,9 +1,8 @@
 <h2> Hey there! I'm Ramon Pinheiro. <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" width="35"> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://media.tenor.com/kB-Liucd8p4AAAAi/pepega-hackermans.gif" width="350" style="margin-bottom: 10px"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently OOP JavaScript! :)
+- 🔭 &nbsp; I’m currently learning OOP JavaScript! :)
 - 🤔 &nbsp; Explore new technologies like React, Tailwind and NextJS.
 - 🎓 &nbsp; Studying at OneBitCode and Rocketseat.
 - 💼 &nbsp; Front-end developer.
