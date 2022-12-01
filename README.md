@@ -28,7 +28,7 @@
 <br>
 
 <div style="display: flex">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiroowsz&theme=transparent&title_color=de5ba7&text_color=de5ba7" width="350">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiroowsz&theme=transparent&title_color=de5ba7&text_color=de5ba7&layout=compact" height="170">
    <img src="https://github-readme-stats.vercel.app/api?username=hiroowsz&show_icons=true&theme=transparent&title_color=de5ba7&text_color=de5ba7&icon_color=000000" width="490" style="margin: 50px;">
 </div>
 
