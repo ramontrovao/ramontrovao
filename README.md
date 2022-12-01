@@ -27,9 +27,8 @@
 
 <br>
 
-<div style="display: flex">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiroowsz&theme=transparent&title_color=de5ba7&text_color=de5ba7&layout=compact" height="170">
-   <img src="https://github-readme-stats.vercel.app/api?username=hiroowsz&show_icons=true&theme=transparent&title_color=de5ba7&text_color=de5ba7&icon_color=000000" width="490" style="margin: 50px;">
+<div style="display: flex" align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiroowsz&theme=transparent&title_color=de5ba7&text_color=de5ba7&layout=compact" height="200">
 </div>
 
 [![wakatime](https://wakatime.com/badge/user/f6436c03-17bb-4f7c-8ce9-9a8d59dc4c06.svg)](https://wakatime.com/@f6436c03-17bb-4f7c-8ce9-9a8d59dc4c06)
