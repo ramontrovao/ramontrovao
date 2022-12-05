@@ -11,9 +11,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript  
-- 🌐 &nbsp; HTML | CSS | SCSS | Bootstrap 
-- 🔧 &nbsp; Visual Studio Code | Git
+<div style="display: flex" align="center">
+   <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height=50> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height=50> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height=50> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" height=50> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height=50>
+</div>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
