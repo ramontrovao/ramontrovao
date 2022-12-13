@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning OOP JavaScript! :)
+- 🔭 &nbsp; I’m currently learning React! :)
 - 🤔 &nbsp; Explore new technologies like React, Tailwind and NextJS.
 - 🎓 &nbsp; Studying at OneBitCode and Rocketseat.
 - 💼 &nbsp; Front-end developer.
