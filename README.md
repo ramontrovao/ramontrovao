@@ -12,7 +12,7 @@
 <h3>🛠 Tech Stack</h3>
 
 <div style="display: flex" align="center">
-   <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height=50> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height=50> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height=50> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" height=50> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height=50> <img src="https://imgs.search.brave.com/Q7vsndj7akXd7BbNA0eEaiCkAbaDyLYJTzq7cNKT3go/rs:fit:1200:1200:1/g:ce/aHR0cDovL2xvZ29z/LWRvd25sb2FkLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/Ni8wOS9SZWFjdF9s/b2dvX2xvZ290eXBl/X2VtYmxlbS5wbmc" width="50">
+   <img src="https://imgs.search.brave.com/Q7vsndj7akXd7BbNA0eEaiCkAbaDyLYJTzq7cNKT3go/rs:fit:1200:1200:1/g:ce/aHR0cDovL2xvZ29z/LWRvd25sb2FkLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/Ni8wOS9SZWFjdF9s/b2dvX2xvZ290eXBl/X2VtYmxlbS5wbmc" width="50"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height=50> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" height=50> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height=50>
 </div>
 
 <h3> 🤝🏻 Connect with Me </h3>
