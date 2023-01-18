@@ -2,12 +2,12 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning React and TypeScript! :)
-- 🤔 &nbsp; Explore new technologies like React, Tailwind and NextJS.
-- 🎓 &nbsp; Studying at OneBitCode and Rocketseat.
+- 🔭 &nbsp; I’m currently learning TypeScript and React! :)
+- 🤔 &nbsp; Explore new technologies like NextJS.
+- 🎓 &nbsp; Studying at Rocketseat and OneBitCode.
 - 💼 &nbsp; Front-end developer.
 - 🌱 &nbsp; Never stop learning!
-- ✍️ &nbsp; I play osu, valorant, genshin impact, i love music and code. 
+- ✍️ &nbsp; I play valorant and osu, <3 music and <3 code. 
 
 <h3>🛠 Tech Stack</h3>
 
