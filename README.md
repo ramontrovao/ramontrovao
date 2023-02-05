@@ -2,9 +2,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning TypeScript and React! :)
-- 🤔 &nbsp; Explore new technologies like NextJS.
-- 🎓 &nbsp; Studying at Rocketseat and OneBitCode.
+- 🔭 &nbsp; I’m currently learning NextJS! :)
+- 🎓 &nbsp; Studying at Rocketseat.
 - 💼 &nbsp; Front-end developer.
 - 🌱 &nbsp; Never stop learning!
 - ✍️ &nbsp; I play valorant and osu, <3 music and <3 code. 
