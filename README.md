@@ -13,15 +13,6 @@
 <div style="display: flex" align="center">
    <img src="https://imgs.search.brave.com/Q7vsndj7akXd7BbNA0eEaiCkAbaDyLYJTzq7cNKT3go/rs:fit:1200:1200:1/g:ce/aHR0cDovL2xvZ29z/LWRvd25sb2FkLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/Ni8wOS9SZWFjdF9s/b2dvX2xvZ290eXBl/X2VtYmxlbS5wbmc" width="50"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" height=50> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height=50>
 </div>
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-&nbsp; <a href="https://twitter.com/hiroowsz" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/ramonpxz/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="mailto:ramontrov@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
-
 <hr>
 
 <br>
