@@ -1,8 +1,5 @@
-<div style="display: flex" align="center">
-   <h1>🛠 Tech Stack</h3>
 
-   <img src="https://imgs.search.brave.com/Q7vsndj7akXd7BbNA0eEaiCkAbaDyLYJTzq7cNKT3go/rs:fit:1200:1200:1/g:ce/aHR0cDovL2xvZ29z/LWRvd25sb2FkLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/Ni8wOS9SZWFjdF9s/b2dvX2xvZ290eXBl/X2VtYmxlbS5wbmc" width="50"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" height=50> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height=50>
-</div>
+  [![Discord Presence](https://lanyard.cnrad.dev/api/310534510225784832)](https://discord.com/users/310534510225784832)
 <hr>
 
 <br>
